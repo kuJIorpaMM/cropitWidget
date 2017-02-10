@@ -1,5 +1,5 @@
 {
-    "name": "kujiorpamm/cropit-widget",
+    "name": "kujiorpamm/cropit",
 	"minimum-stability": "dev",
     "description": "Cropit widget for yii2",
     "type": "yii2-extension",
